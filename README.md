@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+# proyecto-final-ciclo4 
+
+# Jaime Diaz Brand mi primer comentario
+
+=======
 # proyecto-final-ciclo4
 <<<<<<< HEAD
 Hola eqipo soy Alejandro Barreto - Develop
